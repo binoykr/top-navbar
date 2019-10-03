@@ -28,6 +28,7 @@ jQuery(function ($) {
     //     $(".dropdown-button").addClass("show");
     // });
 
+    
     $("#navbar-top-close-button").click(function () {
         if ($(".main-wrapper").hasClass("toggled")) {
             $(".main-wrapper").removeClass("toggled");
