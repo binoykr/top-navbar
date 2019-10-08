@@ -146,7 +146,7 @@ function App() {
                         <div class="media">
                           <div class="pr-10">
                             <span class="avatar md online">
-                              <img src="https://raw.githubusercontent.com/binoykr/react-admin-ui/new-dashboard/public/imgs/user-binoy.jpg" alt="..." />
+                              <img src="https://raw.githubusercontent.com/binoykr/top-navbar/master/public/imgs/user-binoy.jpg" alt="..." />
                               <i></i>
                             </span>
                           </div>
@@ -162,7 +162,7 @@ function App() {
                         <div class="media">
                           <div class="pr-10">
                             <span class="avatar md online">
-                              <img src="https://raw.githubusercontent.com/binoykr/react-admin-ui/new-dashboard/public/imgs/user-binoy.jpg" alt="..." />
+                              <img src="https://raw.githubusercontent.com/binoykr/top-navbar/master/public/imgs/user-binoy.jpg" alt="..." />
                               <i></i>
                             </span>
                           </div>
@@ -178,7 +178,7 @@ function App() {
                         <div class="media">
                           <div class="pr-10">
                             <span class="avatar md online">
-                              <img src="https://raw.githubusercontent.com/binoykr/react-admin-ui/new-dashboard/public/imgs/user-binoy.jpg" alt="..." />
+                              <img src="https://raw.githubusercontent.com/binoykr/top-navbar/master/public/imgs/user-binoy.jpg" alt="..." />
                               <i></i>
                             </span>
                           </div>
@@ -194,7 +194,7 @@ function App() {
                         <div class="media">
                           <div class="pr-10">
                             <span class="avatar md online">
-                              <img src="https://raw.githubusercontent.com/binoykr/react-admin-ui/new-dashboard/public/imgs/user-binoy.jpg" alt="..." />
+                              <img src="https://raw.githubusercontent.com/binoykr/top-navbar/master/public/imgs/user-binoy.jpg" alt="..." />
                               <i></i>
                             </span>
                           </div>
@@ -226,7 +226,7 @@ function App() {
                     Hi Binoy
                   </span>
                   <span class="online">
-                    <img src="https://raw.githubusercontent.com/binoykr/react-admin-ui/new-dashboard/public/imgs/user-binoy.jpg"
+                    <img src="https://raw.githubusercontent.com/binoykr/top-navbar/master/public/imgs/user-binoy.jpg"
                       alt="User picture" />
                     <i></i>
                   </span>
